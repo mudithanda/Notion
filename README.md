@@ -9,8 +9,8 @@ A small note-taking app that runs in your terminal. I built it in Go with [Bubbl
 - Filter the list by typing `/`
 - Open a note, edit it, save it
 - Delete a note (it asks you to confirm first)
-That's about it.
-Give me some suggestions on how to improve it.
+  
+That's about it. Give me some suggestions on how to improve it.
  
 ## Running it
  
